@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there 👋, I'm Alexander Kopachov
 
-<!--
-**akopachov/akopachov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
 
-Here are some ideas to get you started:
+TBD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+TBD
+
+### Tools
+
+TBD
+
+### Get in Touch
+
+TBD
+
+### Say thank you
+
+* Buy me a coffee [here](https://ko-fi.com/akopachov) (No account needed, one-time)
+* Become a patron at [Patreon](https://patreon.com/akopachov) (Account needed)
+* [Z.Cash](https://z.cash/): `t1PCzJrd96RUfzjzhBERfXEFvSi7W6V86hM`
+* [DOGE](https://dogecoin.com/): `DAa3nu1RCWwxZdAnGVga77bgxDFP1nhahj`
+* [TON](https://ton.org/): `EQCSBzoTb1B7RhXnka5RegmdjHR3gQwRVgZHNPPqzjjvlW9T`
