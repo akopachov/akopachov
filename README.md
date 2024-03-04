@@ -3,7 +3,9 @@
 ### Projects
 
 * [Flipper Authencticator](https://github.com/akopachov/flipper-zero_authenticator)
+  > Software-based authenticator that implements multi-factor authentication services using the time-based one-time password (TOTP) and HMAC-based One-time Password algorithm (HOTP), for authenticating users of software applications for Flipper Zero device.
 * [SvelTab](https://github.com/akopachov/sveltab)
+  > A beautiful, customizable New Tab page for Firefox, Chrome, Edge and other Chromium-based browsers.
 
 ### Skills
 
@@ -51,7 +53,7 @@
 ### Say thank you
 
 * Buy me a coffee [here](https://ko-fi.com/akopachov) (No account needed, one-time)
-* Become a patron at [Patreon](https://patreon.com/akopachov) (Account needed)
+* Become a patron [here](https://patreon.com/akopachov) (Account needed)
 * [Z.Cash](https://z.cash/): `t1PCzJrd96RUfzjzhBERfXEFvSi7W6V86hM`
 * [DOGE](https://dogecoin.com/): `DAa3nu1RCWwxZdAnGVga77bgxDFP1nhahj`
 * [TON](https://ton.org/): `EQCSBzoTb1B7RhXnka5RegmdjHR3gQwRVgZHNPPqzjjvlW9T`
