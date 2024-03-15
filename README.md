@@ -2,10 +2,12 @@
 
 ### Projects
 
-* [Flipper Authenticator](https://github.com/akopachov/flipper-zero_authenticator)
-  > Software-based authenticator that implements multi-factor authentication services using the time-based one-time password (TOTP) and HMAC-based One-time Password algorithm (HOTP), for authenticating users of software applications for Flipper Zero device.
 * [SvelTab](https://github.com/akopachov/sveltab)
   > A beautiful, customizable New Tab page for Firefox, Chrome, Edge and other Chromium-based browsers.
+* [Flipper Authenticator](https://github.com/akopachov/flipper-zero_authenticator)
+  > Software-based authenticator that implements multi-factor authentication services using the time-based one-time password (TOTP) and HMAC-based One-time Password algorithm (HOTP), for authenticating users of software applications for Flipper Zero device.
+* [Flipper Authenticator Companion](https://github.com/akopachov/flipper-zero_authenticator-companion)
+  > Flipper Authenticator Companion is a companion application for [Flipper Authenticator](https://github.com/akopachov/flipper-zero_authenticator) software-based TOTP/HOTP authenticator for Flipper Zero device. This application allows to interact with Flipper Authenticator in a more user-friendly way.
 
 ### Skills
 
